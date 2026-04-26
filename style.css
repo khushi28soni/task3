@@ -1,0 +1,28 @@
+body{
+    background-color:peachpuff;
+}
+.head{
+    color:darkblue;
+}
+#bglime{
+    background-color:rgb(156, 243, 243);
+}
+p{
+    color:white;
+}
+#para{
+    color:green;
+}
+.color{
+    color:red;
+}
+.para{
+    color:black;
+    font-size:x-large;
+}
+ul li span{
+    color:yellow;
+}
+ol span{
+    color:blue;
+}
